@@ -61,7 +61,7 @@ let retweet = function () {
         var httpCall = sentiment.init()
 
         httpCall.send('txt=' + retweetText).end(function (result) {
-          var sentim = result.body.result.sentiment
+          var sentim = result.body.result.sentiment;
           var confidence = parseFloat(result.body.result.confidence)
           console.log(confidence, sentim)
           // if sentiment is Negative and the confidence is above 75%
