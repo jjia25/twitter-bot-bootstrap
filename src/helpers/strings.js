@@ -2,7 +2,6 @@ module.exports = {
   queryString: [
     '100daysofcode',
     'productmanagement',
-    'product',
     'productowner',
     'productmanager'
   ],
