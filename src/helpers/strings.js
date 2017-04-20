@@ -3,7 +3,10 @@ module.exports = {
     '100daysofcode',
     'productmanagement',
     'productowner',
-    'productmanager'
+    'productmanager',
+    'reactjs',
+    'js',
+    'javascript'
   ],
   queryStringSubQuery: [
     ''
