@@ -6,7 +6,8 @@ module.exports = {
     'productmanager',
     'reactjs',
     'js',
-    'javascript'
+    'javascript',
+    'frontend'
   ],
   queryStringSubQuery: [
     ''
